@@ -4,8 +4,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 🔗 Live Demo
 
-[Click here to try the calculator online](https://carxpert-subhajit.github.io/Calculator/)
-
+[Click here to try the calculator online](https://carexpert-subhajit.github.io/Calculator/).
 ## 📸 Screenshot
 
 ![Calculator Screenshot](screenshot.png) <!-- Optional: Add a screenshot image in the repo with this name -->
