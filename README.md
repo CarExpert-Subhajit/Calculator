@@ -7,7 +7,8 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 [Click here to try the calculator online](https://carexpert-subhajit.github.io/Calculator/).
 ## 📸 Screenshot
 
-![Image Alt]([screenshot.png](https://github.com/CarExpert-Subhajit/Calculator/blob/904c9cb6d13e052124eab4ddc001dbf1caac01f4/screenshot.PNG)) <!-- Optional: Add a screenshot image in the repo with this name -->
+![Image Alt]([screenshot.png](https://github.com/CarExpert-Subhajit/Calculator/blob/904c9cb6d13e052124eab4ddc001dbf1caac01f4/screenshot.PNG))
+ <!-- Optional: Add a screenshot image in the repo with this name -->
 
 ## 💡 Features
 
